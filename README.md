@@ -62,8 +62,10 @@ The project is organized as follows:
 ```
 LLMs_As_API/
 │
+├── assets/             # directory contains assets used
 ├── app.py              # FastAPI application serving routes
 ├── client.py           # Streamlit-based frontend to interact with the API
+├── intoroduction.ipynb # Project overview
 ├── requirements.txt    # List of required Python packages
 └── README.md           # Project documentation
 ```
